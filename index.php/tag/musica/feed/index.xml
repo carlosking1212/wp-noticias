@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>musica &#8211; Owi-Web</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 22 Apr 2021 19:50:54 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>K. Flay &#8211; Blood In The Cut (Aire Atlantica Remix)</title>
+		<link>./../../../2021/04/22/k-flay-blood-in-the-cut-aire-atlantica-remix/index.html</link>
+					<comments>./../../../2021/04/22/k-flay-blood-in-the-cut-aire-atlantica-remix/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2021 19:50:54 +0000</pubDate>
+				<category><![CDATA[musica]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[eletronica]]></category>
+		<category><![CDATA[remix]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=81</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="responsive-embed widescreen"><iframe loading="lazy" title="K. Flay - Blood In The Cut (Aire Atlantica Remix)" width="1000" height="563" src="https://www.youtube.com/embed/mQom_fiFFu4?list=PLV-Um-Y76wWJ-pBv1XYEGw2NbPzlu7vLx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/04/22/k-flay-blood-in-the-cut-aire-atlantica-remix/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
